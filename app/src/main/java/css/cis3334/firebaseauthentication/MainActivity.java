@@ -30,7 +30,7 @@ import static java.lang.reflect.Modifier.FINAL;
 
 public class MainActivity extends AppCompatActivity {
 
-    private TextView textViewStatus;
+    private TextView textViewStatus; //testing
     private EditText editTextEmail;
     private EditText editTextPassword;
     private Button buttonLogin;
@@ -40,6 +40,7 @@ public class MainActivity extends AppCompatActivity {
     private FirebaseAuth mAuth;
     private FirebaseAuth.AuthStateListener mAuthListener;
     final String TAG = "";
+    final String lol = "";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
