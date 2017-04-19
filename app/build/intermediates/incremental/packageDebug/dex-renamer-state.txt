@@ -1,0 +1,7 @@
+#Wed Apr 12 11:32:55 CDT 2017
+base.0=C\:\\Users\\mmaybon\\Desktop\\cis3334-part12-firebase-auth-matt019-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_df4151824cbcf0c2b3db9ad30cfad0fc1fe9adf6
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\mmaybon\\Desktop\\cis3334-part12-firebase-auth-matt019-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_20673731d42e016f44d341713163f08f53046db1\\classes.dex
+base.1=C\:\\Users\\mmaybon\\Desktop\\cis3334-part12-firebase-auth-matt019-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_20673731d42e016f44d341713163f08f53046db1
+file.0=C\:\\Users\\mmaybon\\Desktop\\cis3334-part12-firebase-auth-matt019-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_df4151824cbcf0c2b3db9ad30cfad0fc1fe9adf6\\classes.dex

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="25"
+    density="xhdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="41497919283020"
+    token="-3631614111022335876"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="2600" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="927" />
+    <task
+        name="verifier"
+        duration="736" />
+
+    <artifact
+        location="C:\Users\mmaybon\Desktop\cis3334-part12-firebase-auth-matt019-master\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="41497919283020"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Users\mmaybon\Desktop\cis3334-part12-firebase-auth-matt019-master\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
